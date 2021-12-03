@@ -35,4 +35,4 @@ def dive():
 
     print(horizontal * depth)
 
-ive()
+dive()
